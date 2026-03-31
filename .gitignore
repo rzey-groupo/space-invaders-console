@@ -1,0 +1,24 @@
+# Build results
+[D|d]ebug/\n[RE|re]lease/\n[A|a]ssets/\n[L|l]ogs/\n\n# Rider
+.idea/
+\.sln.iml
+\n# Visual Studio
+.vs/\n\n# User-specific files
+*.suo
+*.user
+*.userprefs
+\n# Mono Auto Generated Files
+mono_crash.*
+\n# Windows specific
+Thumbs.db
+.DS_Store
+\n# NCrunch
+.ncrunchproject
+.ncrunchhelp
+\n# ReSharper
+_ReSharper*/
+*.[Rr]eSharper*\n\n# DotNet
+project.lock.json
+project.fragment.lock.json
+\n# Visual Studio Code
+.vscode/
